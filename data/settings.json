@@ -1,0 +1,27 @@
+{
+  "postcodes": [
+    "PR8",
+    "PR9"
+  ],
+  "subregions": [
+    "Southport",
+    "Birkdale",
+    "Ainsdale",
+    "Churchtown",
+    "Birkdale Village",
+    "Churchtown Village",
+    "Ainsdale Beach"
+  ],
+  "keywords": [
+    "local business news",
+    "planning applications",
+    "retail closure",
+    "new development",
+    "council plans",
+    "commercial property"
+  ],
+  "cronSchedule": "0 6 * * 1",
+  "githubRepo": "your-github-username/southport-scout",
+  "branch": "main",
+  "anthropicApiKeySet": false
+}

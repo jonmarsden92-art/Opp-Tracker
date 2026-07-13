@@ -1,0 +1,51 @@
+[
+  {
+    "id": "opp-1",
+    "title": "Ainsdale Dunes Eco-Adventure Hub",
+    "description": "An all-in-one electric fat-bike and sand-board rental kiosk catering to Ainsdale's growing eco-tourism. Offers guided sand-dune trail packages and digital trail guides via QR codes, tapping into local interest in Southport's natural coastline.",
+    "evidence": "Recent consultations on Sefton coastal plan and the surge in outdoor staycations. Ainsdale has no active bike rentals directly on the beach trail entrance, despite over 100,000 annual visitors.",
+    "demand": 9,
+    "competition": 2,
+    "cost": "Medium (£2k - £5k)",
+    "speed": 8,
+    "swell": 89,
+    "timestamp": "2026-07-06T09:00:00Z",
+    "sources": [
+      {
+        "title": "Sefton Coastal Plan 2026",
+        "uri": "https://www.sefton.gov.uk/coastline-management"
+      }
+    ]
+  },
+  {
+    "id": "opp-2",
+    "title": "Birkdale Artisanal Prep-Kitchen & Pantry",
+    "description": "A collaborative, shared commercial kitchen facility designed for local home-bakers and street-food sellers in Birkdale. Solves the Sefton Council compliance hurdle for micro-businesses looking to scale without heavy commercial leases.",
+    "evidence": "Closure of several small cafes in Birkdale leaving a gap for locally prepared craft bakes, combined with a 35% rise in home-based food registries in Sefton since 2024.",
+    "demand": 8,
+    "competition": 3,
+    "cost": "High (>£10k)",
+    "speed": 5,
+    "swell": 76,
+    "timestamp": "2026-07-06T09:00:00Z",
+    "sources": [
+      {
+        "title": "Birkdale Village Community Hub News",
+        "uri": "https://www.champnews.com/southport"
+      }
+    ]
+  },
+  {
+    "id": "opp-3",
+    "title": "Churchtown Cargo-Bike Local Express",
+    "description": "An eco-friendly, cargo-bike delivery collective serving Churchtown and Southport town centre's boutique retailers. Enables local florists, bakers, and makers to offer competitive same-day home delivery to PR8/PR9 residents.",
+    "evidence": "Lord Street retail transformation strategy focusing on local independents rather than big chains. Retailers have expressed high delivery costs via traditional parcel couriers.",
+    "demand": 8,
+    "competition": 1,
+    "cost": "Low (<£1.5k)",
+    "speed": 9,
+    "swell": 91,
+    "timestamp": "2026-07-06T09:00:00Z",
+    "sources": []
+  }
+]

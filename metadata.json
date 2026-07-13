@@ -1,0 +1,6 @@
+{
+  "name": "Southport Opportunity Scout",
+  "description": "An automated local market intelligence agent that scans Southport (PR8/PR9) for business gaps, scoring them using a seafaring swell meter and generating a GitHub-ready automated action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
